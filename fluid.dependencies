@@ -1,0 +1,37 @@
+[
+    {
+        "repository": "LineageOS/android_hardware_samsung",
+        "remote": "github",
+        "target_path": "hardware/samsung"
+    },
+    {
+        "repository": "LineageOS/android_hardware_samsung_slsi_exynos",
+        "remote": "github",
+        "target_path": "hardware/samsung_slsi/exynos"
+    },
+    {
+        "repository": "LineageOS/android_hardware_samsung_slsi_exynos5",
+        "remote": "github",
+        "target_path": "hardware/samsung_slsi/exynos5"
+    },
+    {
+        "repository": "LineageOS/android_hardware_samsung_slsi_exynos7580",
+        "remote": "github",
+        "target_path": "hardware/samsung_slsi/exynos7580"
+    },
+    {
+        "repository": "LineageOS/android_hardware_samsung_slsi_openmax",
+        "remote": "github",
+        "target_path": "hardware/samsung_slsi/openmax"
+    },
+    {
+        "repository": "LineageOS/android_kernel_samsung_universal7580",
+        "remote": "github",
+        "target_path": "kernel/samsung/universal7580"
+    },
+    {
+        "repository": "LineageOS/android_packages_resources_devicesettings",
+        "remote": "github",
+        "target_path": "packages/resources/devicesettings"
+    }
+]
